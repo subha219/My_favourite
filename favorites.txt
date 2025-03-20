@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 CHOCOLATE
 BURGER
 SLICE
+=======
+AVATAR
+TITANIC
+LION KING
+>>>>>>> movies
